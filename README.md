@@ -48,6 +48,8 @@
 # Преобразования, CRTP
 
 # Move-семантика, value - categories
+1. Какие есть типы value?
+
 # Lambda - expression
 # Variadic templates
 # Metaprogramming, type traits
