@@ -101,6 +101,7 @@
 8. Что такое xvalue?
 9. glvalue - это любое значение?
 10. Из каких value состоит множество rvalue?
+11. Можно ли сделать умный указатель от xvalue?
 
 # Lambda - expression
 # Variadic templates
