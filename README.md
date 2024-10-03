@@ -47,8 +47,11 @@
 
 # Преобразования, CRTP
 
-# Move-семантика, value - categories
+# Move-семантика, value-categories
 1. Какие есть типы value?
+2. Что такое объект и lvalue по Кернигану-Ритчи в языке Си?
+3. Что такое rvalue?
+4. Какой тип значения имеет правый операнд при присваивании?
 
 # Lambda - expression
 # Variadic templates
