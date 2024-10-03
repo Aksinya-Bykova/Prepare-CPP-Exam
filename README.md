@@ -113,5 +113,6 @@
 6. Что такое if constexpr?
 7. Что такое fold expressions?
 8. Арифметические операции с помощью fold expressions. Какой правильный порядок у операндов?
-9. Реализация NaiveTuple из лекции
+9. Привести пример кода с std::tuple, демонстрирующего его функциональность
+10. Реализация NaiveTuple из лекции
 # Metaprogramming, type traits
