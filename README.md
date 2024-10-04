@@ -133,7 +133,8 @@
 16. В чём отличие между rvalue и универасальными ссылками?
 17. Collapsing of references
 18. Что такое perfect forwarding?
-19. Устройство std::forward 
+19. Устройство std::forward
+20. Copy elision
 
 # Lambda - expression
 
