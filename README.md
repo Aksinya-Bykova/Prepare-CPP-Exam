@@ -127,6 +127,13 @@
 9. glvalue - это любое значение?
 10. Из каких value состоит множество rvalue?
 11. Можно ли сделать умный указатель от xvalue?
+12. Проблема избыточного копирования
+14. Copy and swap idiom
+15. Swap с помощью std::move
+16. В чём отличие между rvalue и универасальными ссылками?
+17. Collapsing of references
+18. Что такое perfect forwarding?
+19. Устройство std::forward 
 
 # Lambda - expression
 
