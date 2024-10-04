@@ -61,7 +61,9 @@
 12. Что содержится в vtable?
 13. Зачем нужен виртуальный деструктор?
 14. Что такое virtual friend function idiom?
-15. Что такое type erasure idiom?
+15. Что значит friend у оператора?
+16. Что делает protected?
+17. Что такое type erasure idiom?
 
 # Классы. Специальные методы
    
